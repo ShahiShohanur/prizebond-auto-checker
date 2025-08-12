@@ -3,13 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A simple and efficient web tool to automatically check your prize bond numbers against the latest prizebond draws.
+This flexibility allows you to easily manage and check your bonds using the app.
 
 ---
 
 ## Features
 
-- Load multiple JSON files containing your saved prize bond numbers.
-- Manually input prize bond numbers (one per line).
+- **Loading JSON files:** Select one or more JSON files containing your bond numbers from the file list. (data/yourJsonFile.json)
+- **Manual Input:** Enter your bond numbers manually, one per line, in the provided input box.
 - Automatically fetch and check the latest 10 prize bond draws.
 - Display matches with clickable links to the official draw PDFs.
 - Responsive and clean UI built with [Tailwind CSS](https://tailwindcss.com/).
@@ -58,3 +59,13 @@ You can run the app locally or deploy it on any static hosting with backend APIs
    ```bash
     Visit: http://localhost:3003/
    ```
+
+---
+
+## You are welcome to contribute [Check Guide](CONTRIBUTING.md)
+
+---
+
+If you find this project helpful or enjoyable, please consider giving it a ⭐ star on GitHub. It really helps us grow and improve!
+
+Thank you for contributing! Together we make the Prizebond Auto Checker better. 🚀
