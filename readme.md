@@ -40,7 +40,7 @@ You can run the app locally or deploy it on any static hosting with backend APIs
 1. Clone the repo:
 
    ```bash
-   git clone [https://github.com/ShahiShohanur/prizebond-auto-checker](https://github.com/ShahiShohanur/prizebond-auto-checker)
+   git clone https://github.com/ShahiShohanur/prizebond-auto-checker
    cd prizebond-auto-checker
    ```
 
@@ -56,5 +56,5 @@ You can run the app locally or deploy it on any static hosting with backend APIs
    ```
 4. Enjoy 🥳🥳🥳🥳
    ```bash
-    [http://localhost:3003]: http://localhost:3003/
+    Visit: http://localhost:3003/
    ```
