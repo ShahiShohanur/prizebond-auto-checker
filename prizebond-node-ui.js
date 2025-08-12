@@ -6,7 +6,7 @@ const axios = require('axios');
 const pdfParse = require('pdf-parse');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3003;
 const DATA_DIR = path.join(__dirname, 'data');
 
 app.set('view engine', 'ejs');

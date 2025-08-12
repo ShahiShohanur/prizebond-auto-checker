@@ -54,3 +54,7 @@ You can run the app locally or deploy it on any static hosting with backend APIs
    ```bash
    node prizebond-node-ui
    ```
+4. Enjoy 🥳🥳🥳🥳
+   ```bash
+    Visit: http://localhost:3003/
+   ```
