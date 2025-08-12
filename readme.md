@@ -10,7 +10,8 @@ This flexibility allows you to easily manage and check your bonds using the app.
 ## Features
 
 - **Loading JSON files:** Select one or more JSON files containing your bond numbers from the file list. (data/yourJsonFile.json)
-- **Manual Input:** Enter your bond numbers manually, one per line, in the provided input box.
+- **Both Bangla and English formats are supported:** Enter your bond numbers manually, one per line, in the provided input box or in the JSON.
+
 - Automatically fetch and check the latest 10 prize bond draws.
 - Display matches with clickable links to the official draw PDFs.
 - Responsive and clean UI built with [Tailwind CSS](https://tailwindcss.com/).
